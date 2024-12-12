@@ -1,6 +1,8 @@
 # Turkish Stopwords List
 
-This repo contains a comprehensive list of Turkish stopwords, which are commonly used words in the Turkish language that are often excluded during natural language processing (NLP) tasks. These words typically carry little semantic meaning and include pronouns, conjunctions, prepositions, auxiliary verbs, and other frequently used terms.
+This repo contains a comprehensive list of Turkish stopwords, which are commonly used words in the Turkish language that are often excluded during natural language processing (NLP) tasks. 
+
+Here is a brief description of "stopwords": Stopwords are the words in any language which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence. (More information here: https://shorturl.at/rScFr)
 
 ## Features
 - A comprehensive and deduplicated list of Turkish stopwords.
@@ -9,7 +11,7 @@ This repo contains a comprehensive list of Turkish stopwords, which are commonly
 - Useful for NLP tasks such as text preprocessing, tokenization, and stopword removal.
 
 ## File
-- **`tr_stopwords.txt`**: A text file containing the complete list of Turkish stopwords, with one stopword per line.
+- **`tr_stopwords.txt`**: The text file that contains the complete list of Turkish stopwords, with one stopword per line.
 
 ## How to Use
 1. Clone the repository:
