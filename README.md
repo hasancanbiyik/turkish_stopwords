@@ -4,6 +4,7 @@ This repo contains a comprehensive list of Turkish stopwords, which are commonly
 
 ## Features
 - A comprehensive and deduplicated list of Turkish stopwords.
+- This list contains *394 words* in total
 - The list was built upon the work by [tkorkunckaya](https://github.com/tkorkunckaya/Turkish-Stopwords), with additional stopwords that were missing from the original list.
 - Useful for NLP tasks such as text preprocessing, tokenization, and stopword removal.
 
