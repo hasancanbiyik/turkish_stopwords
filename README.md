@@ -16,7 +16,7 @@ This repo contains a comprehensive list of Turkish stopwords, which are commonly
    ```bash
    git clone https://github.com/hasancanbiyik/turkish_stopwords.git
    ```
-2. Use the `comprehensive_turkish_stopwords.txt` file in your NLP projects by loading it as a stopwords list in your preferred programming language.
+2. Use the `tr_stopwords.txt` file in your NLP projects by loading it as a stopwords list.
 
 ## Acknowledgments
 Special thanks to [tkorkunckaya](https://github.com/tkorkunckaya/Turkish-Stopwords) for his initial stopword list, which served as a foundation for this work. This repo extends the original list by adding several missing stopwords to create a more comprehensive resource.
