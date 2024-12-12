@@ -14,7 +14,7 @@ This repo contains a comprehensive list of Turkish stopwords, which are commonly
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/turkish-stopwords.git
+   git clone https://github.com/hasancanbiyik/turkish_stopwords.git
    ```
 2. Use the `comprehensive_turkish_stopwords.txt` file in your NLP projects by loading it as a stopwords list in your preferred programming language.
 
