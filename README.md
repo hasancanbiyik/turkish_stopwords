@@ -23,3 +23,4 @@ Special thanks to [tkorkunckaya](https://github.com/tkorkunckaya/Turkish-Stopwor
 
 ## Contributing
 Contributions are welcome! If you find missing stopwords or have suggestions for improvement, feel free to open an issue or submit a pull request.
+Please let me know if you have any questions or suggestions!
